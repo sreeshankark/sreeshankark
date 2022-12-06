@@ -17,4 +17,4 @@
 
 ## Reach me 
 <a href = "mailto: sreeshankar0910@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white&bgColor=red" target="_blank"></a>
-<a href = "https://instagram.com/__sk_sanju__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "https://instagram.com/_sk_sanju__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
