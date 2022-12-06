@@ -7,7 +7,10 @@
 
 ## 🐍 Snake eating my contributions 
 
-![snake gif](https://github.com/Sanju0910/Sanju0910/blob/output/github-contribution-grid-snake.gif)
+
+![GitHub Snake Light](https://github.com/Sanju0910/Sanju0910/blob/output/github-contribution-grid-snake.gif#gh-light-mode-only)
+
+![GitHub Snake dark](https://github.com/Sanju0910/Sanju0910/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
 ## ✉️ Reach me 
 
