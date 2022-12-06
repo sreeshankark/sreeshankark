@@ -36,7 +36,7 @@
   <br>
   <br>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sanju0910&theme=elegant&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sanju0910&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
  
