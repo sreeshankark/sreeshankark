@@ -33,7 +33,7 @@
 
 ![GitHub dark](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalTanna24&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=70a4f6&text_color=38bcad&icon_color=61dafb&bg_color=1a1b27&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
 
-![GitHub Light](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalTanna24&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=70a4f6&text_color=38bcad&icon_color=61dafb&bg_color=1a1b27&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
+![GitHub Light](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalTanna24&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=70a4f6&text_color=38bcad&icon_color=61dafb&bg_color=ffffff&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
 
       
 
