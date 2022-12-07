@@ -25,10 +25,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju0910&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju0910&theme=tokyo&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=Sanju0910&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+      <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=Sanju0910&show_icons=true&theme=tokyo&border_color=61dafb&hide_border=true" />
     </a>
 
 ![GitHub language dark](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalTanna24&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=70a4f6&text_color=38bcad&icon_color=61dafb&bg_color=1a1b27&langs_count=8&layout=compact&border_color=61dafb&hide_border=true)
