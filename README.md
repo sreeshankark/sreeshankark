@@ -21,29 +21,3 @@
 <a href = "https://www.facebook.com/sreeshankar.k.1?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1778f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href = "https://t.me/sksanju0910" target="_blank"><img src="https://img.shields.io/badge/-Telegram-229ed9?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 
-</p>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=Sanju0910&theme=tokyonight&border=000000&hide_border=false" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=Sanju0910&show_icons=true&theme=tokyonight&border_color=000000&hide_border=false" />
-    </a>
-<div align=center>
-
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushalTanna24&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-      
-
-    </a>
-
-  </div>
-
-      
-
-  
-
-</p>
-
- 
