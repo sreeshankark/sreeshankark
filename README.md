@@ -30,7 +30,7 @@
 Contribute my projects
 </h2>
 <p align="center">
-<a href = "https://www.paypal.com/paypalme/sreeshankar10202" target="_blank"><img src="https://img.shields.io/badge/-Paypal-253b80?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+<a href = "" target="_blank"><img src="https://img.shields.io/badge/-Paypal-253b80?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
 </p>
 
 
