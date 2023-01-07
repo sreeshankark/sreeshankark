@@ -69,7 +69,6 @@ jobs:
 
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
 
         with:
 
