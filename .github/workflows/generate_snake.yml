@@ -32,7 +32,7 @@ jobs:
           github_user_name: Sanju0910
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           svg_out_path: dist/generate-snake.svg
-          svg_out_dark_path: dist/generate-snake-dark.svg?palette=github-dark
+          gif_out_path: dist/generate-snake.gif
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
