@@ -26,7 +26,8 @@ jobs:
       - uses: actions/checkout@v2
 
     # Generates the snake  
-      - uses: Platane/snk@main
+     - name: Generate Snake
+        uses: Platane/snk@main
         id: generate-snake
         uses: ./
         with:
