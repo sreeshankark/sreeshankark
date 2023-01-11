@@ -27,7 +27,7 @@
 </p>
 
 <h2 align="center">
-Contribute my projects
+Donate 🌝
 </h2>
 <p align="center">
 <a href = "https://paypal.me/SreeshankarK" target="_blank"><img src="https://img.shields.io/badge/-Paypal-253b80?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
