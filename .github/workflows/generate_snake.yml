@@ -46,9 +46,10 @@ jobs:
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v3
+      if: success()
         with:
           # the output branch we mentioned above
-          target_branch: gh-pages
+          target_branch: output
           build_dir: public
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
