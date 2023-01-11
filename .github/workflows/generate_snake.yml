@@ -44,9 +44,8 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
-
+        if: success()
       - uses: crazy-max/ghaction-github-pages@v3
-      if: success()
         with:
           # the output branch we mentioned above
           target_branch: output
