@@ -5,7 +5,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=600&height=60&lines=Hey+There!%2C+%F0%9F%91%8B;Nice+to+meet+you....%F0%9F%98%87;Myself+Sreeshankar+%F0%9F%98%8C;From+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3%F0%9F%93%8D&center=true" />
 </a>
 </h1>
-       ⚠️ Force Push Warning: I do Force Push a lot, I like clean commit history. ⚠️
+<h3 align="center">
+⚠️ Force Push Warning: I do Force Push a lot, I like clean commit history. ⚠️
+</h3>
 <h2 align="center">
 🐍 Snake eating my contributions
 </h2> 
