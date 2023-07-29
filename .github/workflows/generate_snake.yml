@@ -34,8 +34,8 @@ jobs:
           
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           outputs: |
-              dist/generate-snake.svg
-              dist/generate-snake.gif
+              dist/github-snake.svg
+              dist/github-snake-dark.svg?palette=github-dark
 
   
      # show the status of the build. Makes it easier for debugging (if there's any issues).
