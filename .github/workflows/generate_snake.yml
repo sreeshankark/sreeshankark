@@ -30,11 +30,12 @@ jobs:
         id: generate-snake
         with:
           github_user_name: Sanju0910
+          github_token: ${{ secrets.GH_TOKEN }}
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           svg_out_path: dist/generate-snake.svg
           gif_out_path: dist/generate-snake.gif
-        env:  
-          github_token: ${{ secrets.GH_TOKEN }}
+
+  
      # show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
@@ -42,7 +43,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GH_TOKEN }}
           branch: master
           force: true
 
