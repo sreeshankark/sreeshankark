@@ -8,8 +8,10 @@
 <h3 align="center">
 Snake eating my contributions:
 </h3> 
+
 ![GitHub Snake Light](https://github.com/Sanju0910/Sanju0910/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/Sanju0910/Sanju0910/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
 <h3 align="left">
 Connect with me: 
 <a href = "mailto: sreeshankar10202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white&bgColor=red" target="_blank"></a> <a href = "https://instagram.com/_sk_sanju__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <a href = "https://www.facebook.com/sreeshankar.k.1?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1778f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> <a href = "https://t.me/sksanju0910" target="_blank"><img src="https://img.shields.io/badge/-Telegram-229ed9?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> <a href = "https://forum.xda-developers.com/m/sreeshankar-k.12519707/" target="_blank"><img src="https://img.shields.io/badge/-XDA Developers-f59714?style=for-the-badge&logo=xdadevelopers&logoColor=white" target="_blank"></a> <a href = "https://twitter.com/_sk_sanju__?t=2GE5K-GxIe0jJrlzhYeccA&s=09" target="_blank"><img src="https://img.shields.io/badge/-Twitter-08a0e9?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
