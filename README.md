@@ -5,20 +5,20 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=600&height=60&lines=Hey+There!%2C+%F0%9F%91%8B;Nice+to+meet+you....%F0%9F%98%87;Myself+Sreeshankar+%F0%9F%98%8C;From+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3%F0%9F%93%8D&center=true" />
 </a>
 </h1>
-<h3 align="center">
-⚠️ Force Push Warning: 
+<h3 align="left">
+Force Push Warning ⚠️: 
 </h3>
 I do Force Push a lot, I like clean commit history.
-<h2 align="center">
+<h3 align="center">
 Snake eating my contributions
-</h2> 
+</h3> 
 
 ![GitHub Snake Light](https://github.com/Sanju0910/Sanju0910/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/Sanju0910/Sanju0910/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
-<h2 align="left">
+<h3 align="left">
 Connect with me:
-</h2>
+</h3>
 
 <p align="left">
 <a href = "mailto: sreeshankar10202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white&bgColor=red" target="_blank"></a>
