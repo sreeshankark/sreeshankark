@@ -9,14 +9,14 @@
 ⚠️ Force Push Warning: I do Force Push a lot, I like clean commit history. ⚠️
 </h3>
 <h2 align="center">
-🐍 Snake eating my contributions
+Snake eating my contributions
 </h2> 
 
 ![GitHub Snake Light](https://github.com/Sanju0910/Sanju0910/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/Sanju0910/Sanju0910/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
-<h2 align="center">
-🤝 Contact me
+<h2 align="left">
+Connect with me:
 </h2>
 
 <p align="center">
