@@ -6,8 +6,9 @@
 </a>
 </h1>
 <h3 align="center">
-⚠️ Force Push Warning: I do Force Push a lot, I like clean commit history. ⚠️
+⚠️ Force Push Warning: 
 </h3>
+I do Force Push a lot, I like clean commit history.
 <h2 align="center">
 Snake eating my contributions
 </h2> 
@@ -19,7 +20,7 @@ Snake eating my contributions
 Connect with me:
 </h2>
 
-<p align="center">
+<p align="left">
 <a href = "mailto: sreeshankar10202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white&bgColor=red" target="_blank"></a>
 <a href = "https://instagram.com/_sk_sanju__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
 <a href = "https://www.facebook.com/sreeshankar.k.1?mibextid=ZbWKwL" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1778f2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
