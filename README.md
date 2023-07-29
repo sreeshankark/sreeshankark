@@ -1,15 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sanju0910.Sanju0910">
 
-<h2 align="left">
+<h1 align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=600&height=60&lines=Hey+There!%2C+%F0%9F%91%8B;Nice+to+meet+you....%F0%9F%98%87;Myself+Sreeshankar+%F0%9F%98%8C;From+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3%F0%9F%93%8D&center=true" />
 </a>
+</h1>
+<h2 align="center">
+Force Push Warning ⚠️: I do Force Push a lot, I like clean commit history.
 </h2>
-<h3 align="left">
-Force Push Warning ⚠️: 
-</h3>
-I do Force Push a lot, I like clean commit history.
-<h3 align="left">
+<h3 align="center">
 Snake eating my contributions
 </h3> 
 
@@ -30,11 +29,8 @@ Connect with me:
 </p>
 
 <h2 align="center">
-Donate 🌝
+Support me by donating: <a href = "https://paypal.me/SreeshankarK" target="_blank"><img src="https://img.shields.io/badge/-Paypal-253b80?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
 </h2>
-<p align="center">
-<a href = "https://paypal.me/SreeshankarK" target="_blank"><img src="https://img.shields.io/badge/-Paypal-253b80?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
-</p>
 
 
 
