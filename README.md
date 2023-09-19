@@ -9,8 +9,8 @@
 Snake eating my contributions:
 </h3> 
 
-![GitHub Snake Light](https://github.com/Sanju0910/Sanju0910/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/Sanju0910/Sanju0910/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://github.com/sreeshankark/sreeshankark/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/sreeshankark/sreeshankark/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 <h3 align="left">
 Connect with me: 
