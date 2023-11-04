@@ -5,13 +5,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70000&width=600&height=60&lines=Hey+There!%2C+%F0%9F%91%8B;Nice+to+meet+you....%F0%9F%98%87;Myself+Sreeshankar+%F0%9F%98%8C;From+Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3%F0%9F%93%8D&center=true" />
 </a>
 </h2>
-<h3 align="left">
-Snake eating my contributions:
-</h3> 
 
 ![GitHub Snake Light](https://github.com/sreeshankark/sreeshankark/blob/output/github-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/sreeshankark/sreeshankark/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
+![Sreeshankar K's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeshankark&show_icons=true&count_private=true&theme=yeblu)
 <h3 align="left">
 Connect with me: 
 </h3>
