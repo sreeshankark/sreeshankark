@@ -28,6 +28,7 @@ Support me by donating:
 </h3>
 <p align="left">
 <a href = "https://paypal.me/SreeshankarK" target="_blank"><img src="https://img.shields.io/badge/-Paypal-253b80?style=for-the-badge&logo=paypal&logoColor=white" target="_blank"></a>
+<a href = "https://buymeacoffee.com/sreeshankark" target="_blank"><img src="https://img.shields.io/badge/-BuyMeACoffee-ffd900?style=for-the-badge&logo=buymeacoffee&logoColor=black" target="_blank"></a>
 </p>
 
 
