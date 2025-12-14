@@ -9,10 +9,6 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/sreeshankark/sreeshankark/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/sreeshankark/sreeshankark/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<h3 align="left">
-Noob me: 
-</h3>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeshankark&show_icons=true&count_private=true&theme=yeblu)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sreeshankark&theme=soft-green)](https://git.io/streak-stats)
